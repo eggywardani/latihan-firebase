@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "770744294803",
+    "firebase_url": "https://daftarpaud-default-rtdb.firebaseio.com",
+    "project_id": "daftarpaud",
+    "storage_bucket": "daftarpaud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770744294803:android:19fe1d75bd0fde0222dc66",
+        "android_client_info": {
+          "package_name": "com.eggy.belajarfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770744294803-s8svmkjqq0f96n28q9f1s3lqi2v786eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGjHff4JbZRqPaTDDkyYwACOSKV8c-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770744294803-s8svmkjqq0f96n28q9f1s3lqi2v786eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770744294803:android:cd08642141fca8aa22dc66",
+        "android_client_info": {
+          "package_name": "com.eggy.daftarpaud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770744294803-s8svmkjqq0f96n28q9f1s3lqi2v786eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGjHff4JbZRqPaTDDkyYwACOSKV8c-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770744294803-s8svmkjqq0f96n28q9f1s3lqi2v786eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
